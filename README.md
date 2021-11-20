@@ -25,7 +25,7 @@ Utils, helpers, extensions and attributes to work with Basic authentication
 
 ### Dependencies
 
-- Microsoft.AspNetCore.Authentication.JwtBearer [NuGet](https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/)
+- Microsoft.AspNetCore.Authorization [NuGet](https://www.nuget.org/packages/Microsoft.AspNetCore.Authorization/)
 
 ### How to use
 
