@@ -7,8 +7,6 @@ namespace PowerUtils.AspNetCore.Authentication.BasicAuth.Attributes
         public const string AUTHENTICATION_SCHEME = "Basic";
 
         public BasicAuthentication()
-        {
-            this.AuthenticationSchemes = AUTHENTICATION_SCHEME;
-        }
+            => AuthenticationSchemes = AUTHENTICATION_SCHEME;
     }
 }
