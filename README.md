@@ -1,35 +1,42 @@
 # PowerUtils.AspNetCore.Authentication.BasicAuth
-Utils, helpers, extensions and attributes to work with Basic authentication
 
-![CI](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/actions/workflows/main.yml/badge.svg)
+![Logo](https://raw.githubusercontent.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/main/assets/logo/logo_128x128.png)
+
+***Utils, helpers, extensions and attributes to work with Basic authentication***U
+
 [![NuGet](https://img.shields.io/nuget/v/PowerUtils.AspNetCore.Authentication.BasicAuth.svg)](https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth)
 [![Nuget](https://img.shields.io/nuget/dt/PowerUtils.AspNetCore.Authentication.BasicAuth.svg)](https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth)
+[![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth.svg)](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/blob/main/LICENSE)
+
+
+- [Support](#support-to)
+- [Dependencies](#dependencies)
+- [How to use](#how-to-use)
+  - [Installation](#Installation)
+  - [Attributes](#Attributes)
+    - [BasicAuthentication](#BasicAuthentication)
+- [Contribution](#contribution)
+- [License](./LICENSE)
+- [Changelog](./CHANGELOG.md)
 
 
 
-
-## Support to
-- .NET 3.1, .NET 5.0 and .NET 6.0
-
-
-
-
-## Features
-
-- [Installation](#Installation)
-- [Attributes](#Attributes)
-  - [BasicAuthentication](#BasicAuthentication)
+## Support to <a name="support-to"></a>
+- .NET 6.0
+- .NET 5.0
+- .NET 3.1
 
 
-## Documentation
 
-### Dependencies
+## Dependencies <a name="dependencies"></a>
 
 - Microsoft.AspNetCore.Authorization [NuGet](https://www.nuget.org/packages/Microsoft.AspNetCore.Authorization/)
 
-### How to use
 
-#### Install NuGet package <a name="Installation"></a>
+
+## How to use <a name="how-to-use"></a>
+
+### Install NuGet package <a name="Installation"></a>
 This package is available through Nuget Packages: https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth
 
 **Nuget**
@@ -75,22 +82,6 @@ public class TestController : ControllerBase
 
 
 
-## Contribution
+## Contribution <a name="contribution"></a>
 
-*Help me to help others*
-
-
-
-
-## LICENSE
-
-[MIT](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/blob/main/LICENSE)
-
-
-
-
-## Release Notes
-
-
-### v1.0.0 - 2021/11/20
-- Kick start project
+If you have any questions, comments, or suggestions, please open an [issue](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/issues/new/choose) or create a [pull request](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/compare)
