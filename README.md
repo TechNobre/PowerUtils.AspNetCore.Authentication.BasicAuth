@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/main/assets/logo/logo_128x128.png)
 
-***Utils, helpers, extensions and attributes to work with Basic authentication***U
+***Utils, helpers, extensions and attributes to work with Basic authentication***
 
 [![NuGet](https://img.shields.io/nuget/v/PowerUtils.AspNetCore.Authentication.BasicAuth.svg)](https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth)
 [![Nuget](https://img.shields.io/nuget/dt/PowerUtils.AspNetCore.Authentication.BasicAuth.svg)](https://www.nuget.org/packages/PowerUtils.AspNetCore.Authentication.BasicAuth)
