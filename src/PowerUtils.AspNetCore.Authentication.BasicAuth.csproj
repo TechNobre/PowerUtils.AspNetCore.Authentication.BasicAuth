@@ -90,7 +90,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="6.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="7.0.0" />
   </ItemGroup>
 
 
