@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/compare/v1.1.0...v1.1.1) (2023-07-08)
+
+
+### Bug Fixes
+
+* Package has been discontinued ([0db8c39](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/commit/0db8c39e5ced2d03c00025ba556b9960dc641750))
+* pipelines ([abb01e9](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/commit/abb01e9c861819c18db4dad73c59f32cc059856c))
+
 # [1.1.0](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/compare/v1.0.0...v1.1.0) (2022-07-20)
 
 
