@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/compare/v1.1.1...v1.1.2) (2023-07-08)
+
+
+### Bug Fixes
+
+* namespaces ([d6e400c](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/commit/d6e400c0f580ff7cc4157c1f9d72e0830a43483d))
+
 ## [1.1.1](https://github.com/TechNobre/PowerUtils.AspNetCore.Authentication.BasicAuth/compare/v1.1.0...v1.1.1) (2023-07-08)
 
 
